@@ -24,7 +24,7 @@ The app follows a microservices architecture comprising:
 
 ## Technologies Used
 
-- Java 11+
+- Java 
 - Spring Boot
 - Spring Cloud Netflix Eureka
 - Spring Cloud OpenFeign
